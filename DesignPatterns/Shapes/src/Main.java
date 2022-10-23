@@ -1,6 +1,6 @@
-import Prototype.AllSquares;
-import Prototype.Rectangle;
-import Prototype.ShapeBuilder;
+import PrototypeBuilder.AllSquares;
+import PrototypeBuilder.Rectangle;
+import PrototypeBuilder.ShapeBuilder;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Prototype;
+package PrototypeBuilder;
 
 public interface IPrototype {
     public IPrototype GetClone();

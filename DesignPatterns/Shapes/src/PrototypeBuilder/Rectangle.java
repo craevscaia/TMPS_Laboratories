@@ -1,4 +1,4 @@
-package Prototype;
+package PrototypeBuilder;
 
 public class Rectangle implements IPrototype {
     private int length;

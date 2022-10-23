@@ -1,4 +1,4 @@
-package Prototype;
+package PrototypeBuilder;
 
 public class SmallSquare extends Square{
 

@@ -1,4 +1,4 @@
-package Prototype;
+package PrototypeBuilder;
 
 public abstract class Square implements IItem{
 

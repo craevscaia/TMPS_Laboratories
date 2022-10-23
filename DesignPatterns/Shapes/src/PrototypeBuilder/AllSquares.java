@@ -1,4 +1,4 @@
-package Prototype;
+package PrototypeBuilder;
 
 import java.util.ArrayList;
 import java.util.List;
