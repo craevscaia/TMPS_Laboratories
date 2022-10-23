@@ -1,8 +1,7 @@
 package Prototype;
 
-public class Square implements IPrototype{
+public abstract class Square implements IItem{
+
     @Override
-    public IPrototype GetClone() {
-        return new Square();
-    }
+    public abstract String name();
 }

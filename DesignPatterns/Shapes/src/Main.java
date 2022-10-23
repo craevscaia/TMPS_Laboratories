@@ -1,4 +1,6 @@
+import Prototype.AllSquares;
 import Prototype.Rectangle;
+import Prototype.ShapeBuilder;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,6 +13,9 @@ public class Main {
         mySecondRectangle.PrintDetails();
         System.out.println("Area for rect2 is: " + mySecondRectangle.Area(mySecondRectangle));
 
+        ShapeBuilder shapeBuilder = new ShapeBuilder();
+        AllSquares squares = shapeBuilder.createSquares();
+        squares.showItems();
 
     }
 }

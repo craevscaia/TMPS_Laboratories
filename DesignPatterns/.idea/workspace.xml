@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/../SOLID/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Shapes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/src/Prototype/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/src/Prototype/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Shapes/src/Shapes.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666549365425</updated>
-      <workItem from="1666549366682" duration="8140000" />
+      <workItem from="1666549366682" duration="10971000" />
     </task>
     <servers />
   </component>
