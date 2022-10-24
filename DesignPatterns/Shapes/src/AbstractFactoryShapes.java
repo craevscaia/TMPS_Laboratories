@@ -1,3 +1,3 @@
 public abstract class AbstractFactoryShapes {
-    abstract Shape getShape(String shapeType) ;
+    abstract IShape getShape(String shapeType) ;
 }

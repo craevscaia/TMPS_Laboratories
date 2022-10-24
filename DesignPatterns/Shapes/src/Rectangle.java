@@ -1,4 +1,4 @@
-public class Rectangle implements Shape{
+public class Rectangle implements IShape {
 
     private static final Rectangle myRectangle = new Rectangle();
     private Rectangle(){

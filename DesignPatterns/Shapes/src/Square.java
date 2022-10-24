@@ -1,7 +1,7 @@
-public class Square implements Shape{
+public class Square implements IShape {
     private static final Square mySquare = new Square();
     private Square(){};
-    public static Shape getMySquare() {
+    public static IShape getMySquare() {
         return mySquare;
     }
 
