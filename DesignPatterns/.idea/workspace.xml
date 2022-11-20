@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3c391f7b-9d17-4021-b24f-480ab12dde8f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shapes/src/AbstractFactoryShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/src/AbstractFactoryShapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shapes/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/src/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shapes/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/src/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shapes/src/RoundedShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/src/RoundedShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shapes/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/src/IShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shapes/src/SharpShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/src/SharpShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shapes/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/src/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "U:/an3/CS/CS_lab",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;U:/an3/CS/CS_lab&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="U:\an3\TMPS\DesignPatterns\Shapes\src" />
@@ -77,7 +70,9 @@
       <option name="presentableId" value="Default" />
       <updated>1666549365425</updated>
       <workItem from="1666549366682" duration="10971000" />
-      <workItem from="1666594588841" duration="7325000" />
+      <workItem from="1666594588841" duration="7739000" />
+      <workItem from="1666763217906" duration="30000" />
+      <workItem from="1667329098861" duration="12000" />
     </task>
     <servers />
   </component>
