@@ -184,7 +184,7 @@ public class ClientQuestions implements IQuestionAboutCreditCard {
     }
 }
 ````
-The QuestionManager class will use ClientQuestion interface which will act as a bridge(QuestionManager).
+The QuestionManager class will use IQuestionAboutCreditCard interface which will act as a bridge(QuestionManager).
 
 ````
 public class QuestionManager {
@@ -209,7 +209,7 @@ public class QuestionManager {
     }
 }
 ````
-Below is represented the Bridge pattern.
+Below is represented the Bridge pattern class.
 
 ````
 public class BridgePattern {
