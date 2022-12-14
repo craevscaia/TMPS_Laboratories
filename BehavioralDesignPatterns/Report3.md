@@ -377,6 +377,10 @@ Finally, when a student is online the Student object sets its state to OnLine,
 and when he is offline its state is OffLine. 
 This allows the behavior of the Student object to be changed depending on its state.
 
+````
+Ana is currently OnLine
+````
+
 ### Conclusion
 
 To sum up, Behavioral design patterns are concerned with the interaction and responsibility of objects.
