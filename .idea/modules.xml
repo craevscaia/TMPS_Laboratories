@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralDesignPatterns/BehavioralDesignPatterns.iml" filepath="$PROJECT_DIR$/BehavioralDesignPatterns/BehavioralDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralDesignPattern/StructuralDesignPattern.iml" filepath="$PROJECT_DIR$/StructuralDesignPattern/StructuralDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TMPS.iml" filepath="$PROJECT_DIR$/.idea/TMPS.iml" />
